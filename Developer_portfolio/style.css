@@ -42,6 +42,31 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.Experiance{
+    background-image: url(developer-portfolio-master/developer-portfolio-master/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position: left;
+}
 .green{
     color: seagreen;
+}
+.experiance{
+    width: 40%;
+    margin: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 30px green;
+}
+#full{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, yellow);
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 5px solid;
+    border-image: linear-gradient(yellow, blue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
